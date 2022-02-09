@@ -27,3 +27,7 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+## Link.
+
+Palette color: https://colorhunt.co/palette/d9d7f1fffddee7fbbeffcbcb
